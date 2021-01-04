@@ -19,5 +19,5 @@ Dockerfileのフォーマット一式です
 再起動させるには以下コマンド  
 必要に応じて`-d`コマンドを最後につける
 ```
-docker-compose up
+(base) docker-compose up
 ```
